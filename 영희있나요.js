@@ -8,3 +8,5 @@ function isName(name) {
     }
   }
 }
+
+isName("선주");
